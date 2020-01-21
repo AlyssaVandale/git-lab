@@ -33,6 +33,24 @@ Answer 6:   On branch master
 
                 new file:   README.md
                 new file:   answers.md
-Answer 7:   
+Answer 7:   On branch master
+            nothing to commit, working tree clean
+Answer 8:   commit d3825a03e0c4511da849f5577c8952d4ce361dea (HEAD -> master)
+            Author: Alyssa Vandale <av117818@ohio.edu>
+            Date:   Tue Jan 21 18:37:01 2020 -0500
+
+                Initial commit
+
+            commit a0ac6d83d25ccbcb6e986025f6f4163964bacf0a
+            Author: Alyssa Vandale <av117818@ohio.edu>
+            Date:   Tue Jan 21 18:32:46 2020 -0500
+
+                Initial Commit
+Answer 9:   On branch master
+            Your branch is up to date with 'origin/master'.
+
+            nothing to commit, working tree clean
+
+
 
 
