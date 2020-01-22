@@ -59,6 +59,6 @@ Answer 9:
 Answer 10:  No, the changes didn't effect my local copy.
 Answer 11:  The updates were refused because the local terminal doesn't have the                same work as the online file. 
 Answer 12:  Yes, the class and section were added to my local file.
-
+Answer 13:  .  ..  .git  .gitignore	README.md
 
 
